@@ -23,7 +23,7 @@ def fibonacci(i):
 # Ends here
 i = int(input("Type the index of Fibonacci Sequence desired: "))
 
-# Just a test above
+# Just a test below
 fibonacci(i)
 
 print("End of program :D")
